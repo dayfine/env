@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"GoSublime"
+	],
+	"installed_packages":
+	[
+		"3D Tool (Async Burst-Mode)",
+		"A File Icon",
+		"AlignTab",
+		"Babel",
+		"ColorPick",
+		"ColorPicker",
+		"DeleteBlankLines",
+		"Dotfiles Syntax Highlighting",
+		"Emmet",
+		"ESLint-Formatter",
+		"GoSublime",
+		"HDL Syntax Highlighting",
+		"Highlight",
+		"HyperlinkHelper",
+		"Indent XML",
+		"JSCS-Formatter",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Protobuf Syntax Hightlighting",
+		"ReadmePlease",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-clang",
+		"SublimeLinter-eslint",
+		"SublimeLinter-tslint",
+		"Theme - Monokai+",
+		"TypeScript"
+	]
+}

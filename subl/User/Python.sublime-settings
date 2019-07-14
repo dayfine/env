@@ -1,0 +1,9 @@
+{
+	"extensions":
+	[
+		"bazel",
+		"WORKSPACE",
+		"bzl"
+	],
+	"tab_size": 4
+}

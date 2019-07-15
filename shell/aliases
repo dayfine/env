@@ -1,0 +1,11 @@
+# See existing aliases first. oh-my-zsh defines many.
+
+# bazel
+alias blaze="bazel"
+alias bb="bazel build"
+alias bball="bazel build //..."
+alias bt="bazel test"
+alias btall="bazel test //..."
+alias bq="bazel query"
+alias br="bazel run"
+alias gz="bazel run //:gazelle"

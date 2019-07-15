@@ -1,0 +1,16 @@
+export PATH=$HOME/bin:/usr/local/bin:$PATH
+export ZSH="/Users/di/.oh-my-zsh"
+
+ZSH_THEME="agnoster"
+
+KEYTIMEOUT=1
+
+plugins=(git sublime tmux web-search)
+
+source $ZSH/oh-my-zsh.sh
+
+if [ -f ~/.aliases ]; then
+    . ~/.aliases;
+fi
+
+prompt_context() {}
